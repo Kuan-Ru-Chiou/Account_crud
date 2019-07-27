@@ -15,3 +15,6 @@ https://medium.com/@vhart/read-write-and-delete-file-handling-from-xcode-playgro
 
 
 4. 單例模式
+
+5.練習ｐｏｐｅｒｔｙｌｉｓｔ　來寫檔
+https://useyourloaf.com/blog/using-swift-codable-with-property-lists/?fbclid=IwAR1Wlj_mu4ewcC4U4NWvQjQVOXcqS2z6rr3_sEtB6-wfXXDefFGAa-TNE1Q
