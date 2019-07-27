@@ -11,6 +11,7 @@
 
 
 3.檔案寫讀技巧: IOS　寫檔案會是覆蓋原本檔案資料　要附加要另外寫！！（小心）
+https://medium.com/@vhart/read-write-and-delete-file-handling-from-xcode-playground-abf57e445b4
 
 
 4. 單例模式
